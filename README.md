@@ -18,7 +18,7 @@ This repository is about hackintosh on **ZOTAC MAGNUS ONE ZBOX-ECM73070C**.
 ## Software
 
 * Bootloader: Clover
-* OS: macOS Big Sur 12.0.1 Monterey
+* OS: macOS Monterey 12.0.1
 
 ## What's working
 
@@ -38,7 +38,7 @@ This repository is about hackintosh on **ZOTAC MAGNUS ONE ZBOX-ECM73070C**.
 
 ### GPU
 
-...
+iGPU Intel UHD 630
 
 ### BIOS
 

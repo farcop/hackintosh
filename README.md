@@ -57,4 +57,7 @@ iGPU Intel UHD 630
 
 ### Installation
 
-...
+1. Create bootable installer USB for macOS https://support.apple.com/en-in/HT201372
+2. Mount EFI partition https://github.com/corpnewt/MountEFI
+3. Clone https://github.com/farcop/hackintosh
+4. Copy EFI folder from this repo to EFI partition.

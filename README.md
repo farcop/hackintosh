@@ -48,6 +48,7 @@ iGPU Intel UHD 630
 
 * Fast Boot
 * CSM
+* SGX
 
 #### Enable
 

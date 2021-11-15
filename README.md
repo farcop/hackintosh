@@ -26,7 +26,7 @@ This repository is about hackintosh on **ZOTAC MAGNUS ONE ZBOX-ECM73070C**.
 - [x] Ethernet 0 Audio Realtek ALC269
 - [x] Ethernet 1 Realtek RTL8168/8111 PCI-E Gigabit Ethernet Adapter
 - [x] Wi-Fi Killer Wi-Fi 6 AX1650x
-- [x] USB (?!)
+- [x] USB
 - [x] Restart/Shutdown
 
 ## What's NOT working
@@ -55,9 +55,15 @@ iGPU Intel UHD 630
 
 ## Misc
 
+### Devices Layout
+
+![Devices Layout](pictures/magnus-one-bus-anno-w-arrows.png "Devices Layout")
+
 ### Installation
 
-1. Create bootable installer USB for macOS https://support.apple.com/en-in/HT201372
-2. Mount EFI partition https://github.com/corpnewt/MountEFI
-3. Clone https://github.com/farcop/hackintosh
-4. Copy EFI folder from this repo to EFI partition.
+1. Go to App Store on any MacOS device, search and download "Monterey MacOS" without installation.
+2. Create bootable installer USB-stick for macOS https://support.apple.com/en-in/HT201372
+3. Mount EFI partition https://github.com/corpnewt/MountEFI
+4. Clone https://github.com/farcop/hackintosh
+5. Copy EFI folder from this repo to EFI partition.
+6. Boot from USB-stick and install MacOS. 

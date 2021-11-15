@@ -2,6 +2,8 @@
 
 This repository is about hackintosh on **ZOTAC MAGNUS ONE ZBOX-ECM73070C** without eGPU.
 
+![Device](pictures/zotac-magnus-one.jpeg "Device")
+
 ## Hardware
 
 * Motherboard: ZOTAC ZBOX-ECM73070C/53060C

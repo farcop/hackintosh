@@ -1,6 +1,6 @@
 # 	ZOTAC MAGNUS ONE ZBOX-ECM73070C (Barebone) Hackintosh
 
-This repository is about hackintosh on **ZOTAC MAGNUS ONE ZBOX-ECM73070C**.
+This repository is about hackintosh on **ZOTAC MAGNUS ONE ZBOX-ECM73070C** without eGPU.
 
 ## Hardware
 
@@ -31,7 +31,7 @@ This repository is about hackintosh on **ZOTAC MAGNUS ONE ZBOX-ECM73070C**.
 
 ## What's NOT working
 
-- [x] BT
+- [x] BT - Disabled due to lags at system startup.
 - [x] Sleep/Wake
 
 ## Details

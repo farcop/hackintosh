@@ -27,12 +27,12 @@ This repository is about hackintosh on **ZOTAC MAGNUS ONE ZBOX-ECM73070C** witho
 - [x] Ethernet 1 Realtek RTL8168/8111 PCI-E Gigabit Ethernet Adapter
 - [x] Wi-Fi Killer Wi-Fi 6 AX1650x
 - [x] USB
+- [x] Sleep/Wake
 - [x] Restart/Shutdown
 
 ## What's NOT working
 
-- [x] BT - Disabled due to lags at system startup.
-- [x] Sleep/Wake
+- [x] BT
 
 ## Details
 

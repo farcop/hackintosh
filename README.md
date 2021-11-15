@@ -32,7 +32,7 @@ This repository is about hackintosh on **ZOTAC MAGNUS ONE ZBOX-ECM73070C** witho
 
 ## What's NOT working
 
-- [x] BT
+- [x] Bluetooth
 
 ## Details
 

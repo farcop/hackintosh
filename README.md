@@ -13,13 +13,14 @@ This repository is about hackintosh on **ZOTAC MAGNUS ONE ZBOX-ECM73070C** witho
 * CPU: Intel i7-10700
 * Chipset: Intel H470
 * iGPU: Intel UHD630
+* GPU: SAPPHIRE PULSE Radeon RX 550 2Gb (SKU: 11268-12)
 * RAM: Kingston Fury DDR4-2933 KF2933C17S4/16G 32GB(16G×2)
 * SSD: Kingston SKC2500M81000G (1000 ГБ, PCI-E 3.0 x4)
 
 ## Software
 
 * Bootloader: Clover
-* OS: macOS Monterey 12.0.1
+* OS: macOS Monterey 12.2.1
 
 ## What's working
 
@@ -44,12 +45,6 @@ iGPU Intel UHD 630
 ### BIOS
 
 > Version: 03/22/2021 12:24:00
-
-#### Disable
-
-* Fast Boot
-* CSM
-* SGX
 
 #### Enable
 

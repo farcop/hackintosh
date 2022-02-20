@@ -22,16 +22,6 @@ This repository is about hackintosh on **ZOTAC MAGNUS ONE ZBOX-ECM73070C**.
 * Bootloader: Clover
 * OS: macOS Monterey 12.2.1
 
-## What's working
-
-- [x] Intel UHD630 (iGPU)
-- [x] Ethernet 0 Audio Realtek ALC269
-- [x] Ethernet 1 Realtek RTL8168/8111 PCI-E Gigabit Ethernet Adapter
-- [x] Wi-Fi Killer Wi-Fi 6 AX1650x
-- [x] USB
-- [x] Sleep/Wake
-- [x] Restart/Shutdown
-
 ## What's NOT working
 
 - [x] Bluetooth

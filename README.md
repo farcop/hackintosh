@@ -6,13 +6,13 @@ This repository is about hackintosh on **ZOTAC MAGNUS ONE ZBOX-ECM73070C**.
 ## Hardware
 
 * Motherboard: ZOTAC ZBOX-ECM73070C/53060C
- * Ethernet: Killer E3000 2.5 Gigabit Ethernet Controller
- * Ethernet: Realtek RTL8168/8111 PCI-E Gigabit Ethernet Adapter
- * Wi-Fi/BT: Killer Wi-Fi 6 AX1650x 160MHz Wireless Network Adapter (200NGW)
- * Audio: Realtek ALC269
-* CPU: Intel i7-10700
-* Chipset: Intel H470
-* iGPU: Intel UHD630
+  * CPU: Intel i7-10700
+  * Chipset: Intel H470
+  * iGPU: Intel UHD630
+  * Ethernet: Killer E3000 2.5 Gigabit Ethernet Controller
+  * Ethernet: Realtek RTL8168/8111 PCI-E Gigabit Ethernet Adapter
+  * Wi-Fi/BT: Killer Wi-Fi 6 AX1650x 160MHz Wireless Network Adapter (200NGW)
+  * Audio: Realtek ALC269
 * GPU: SAPPHIRE PULSE Radeon RX 550 2Gb (SKU: 11268-12)
 * RAM: Kingston Fury DDR4-2933 KF2933C17S4/16G 32GB(16G×2)
 * SSD: Kingston SKC2500M81000G (1000 ГБ, PCI-E 3.0 x4)

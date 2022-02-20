@@ -41,14 +41,11 @@ This repository is about hackintosh on **ZOTAC MAGNUS ONE ZBOX-ECM73070C**.
 ### GPU
 
 iGPU Intel UHD 630
+GPU: SAPPHIRE PULSE Radeon RX 550 2Gb (SKU: 11268-12)
 
 ### BIOS
 
-> Version: 03/22/2021 12:24:00
-
-#### Enable
-
-* EHCI/XHCI Hand-off
+> Version 2K211028
 
 ## Misc
 

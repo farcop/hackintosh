@@ -1,6 +1,6 @@
 # 	ZOTAC MAGNUS ONE ZBOX-ECM73070C (Barebone) Hackintosh
 
-This repository is about hackintosh on **ZOTAC MAGNUS ONE ZBOX-ECM73070C**.
+This repository is about hackintosh on **ZOTAC MAGNUS ONE ZBOX-ECM73070C**
 ![Device](pictures/zotac-magnus-one.jpeg "Device")
 
 ## Hardware

@@ -47,6 +47,10 @@ This repository is about hackintosh on **ZOTAC MAGNUS ONE ZBOX-ECM73070C**
 
 ![Screenshot](pictures/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202022-02-21%20%D0%B2%2021.43.08.png "Screenshot")
 
+### GPU Identification
+
+![GPU](pictures/550.jpg "GPU")
+
 ### Installation
 
 1. Go to App Store on any MacOS device, search and download "Monterey MacOS" without installation.
